@@ -7,7 +7,7 @@ SRD (Solana Reference Data) is a foundational project designed to empower Solana
 **Objective**: SRD is committed to delivering high-quality, standardized on-chain datasets directly usable in Solana Programs. Our datasets are crafted to support developers in creating sophisticated, reliable applications by ensuring data consistency and integrity.
 
 ## Core Features:
-* **Standardized On-Chain Datasets**: Offering a diverse collection of static datasets, SRD caters to a wide range of application needs, from geographical data to financial identifiers, all prepared for on-chain deployment.
+* **Standardized On-Chain Datasets**: Offering a diverse collection of static datasets, SRD caters to a wide range of application needs, from geographical data to financial identifiers.
 
 * **Direct, Seamless Integration**: SRD datasets are optimized for straightforward integration with Solana Programs, promoting a smoother development process and timely project delivery.
 
