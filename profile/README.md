@@ -1,6 +1,6 @@
 # Introduction to SRD (Solana Reference Data)
 
-**Standard Data for Verstaile Programs**
+**Standardized Data for Verstaile Programs**
 
 SRD (Solana Reference Data) is a foundational project designed to empower Solana's ecosystem, facilitating seamless integration of static datasets with Solana Programs (Smart Contracts). By focusing on the provision of standardized datasets, SRD aims to enhance the efficiency and reliability of on-chain operations.
 
